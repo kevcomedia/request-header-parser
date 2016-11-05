@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/kevcomedia/request-header-parser#readme",
   "dependencies": {
-    "express": "^4.14.0"
+    "connect-ua-parser": "^0.1.0",
+    "express": "^4.14.0",
+    "request-ip": "^1.2.3"
   },
   "devDependencies": {}
 }
